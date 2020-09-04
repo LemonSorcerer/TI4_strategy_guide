@@ -1,0 +1,65 @@
+%TODO change spacing for starting units.
+
+%GEOMETRY
+\usepackage[lmargin=1cm, rmargin=1cm, top=1cm, bottom=1cm]{geometry}
+
+\setlength\parindent{0pt} %no indenting in file
+\pagenumbering{gobble} %supress page numbering
+\usepackage{enumitem}
+
+\usepackage{multicol}
+
+%COLUMN SEPARATOR
+
+\setlength\columnsep{20pt}
+
+\usepackage{xpatch}
+\usepackage{graphicx}
+
+\makeatletter
+\xpatchcmd{\@outputdblcol}{\vrule\@width\columnseprule}{\rotatebox{90}{\parbox{\textheight}{\dotfill}}}{}{}
+\makeatother
+
+%LISTS
+\setlist[itemize,1]{label=\ding{70}}
+\setlist[itemize]{leftmargin=*}
+
+%COLORS
+\usepackage[svgnames]{xcolor} %import color options
+\definecolor{red}{RGB}{255,50,50}
+\definecolor{yellow}{named}{Goldenrod}
+\definecolor{green}{RGB}{0,160,0}
+\definecolor{blue}{named}{CornflowerBlue}
+\definecolor{imperial}{HTML}{752b90}
+
+%FONTS
+\usepackage{xparse}
+\usepackage{pifont}
+\newcommand{\stress}[1]{{\color{imperial} \handel \large \textbf{#1}}}
+
+\NewDocumentCommand\name{mg}{%
+    \IfNoValueTF{#2}{\textcolor{black}{\textbf{#1}}}{\textcolor{#2}{\textbf{#1}}}%
+} %input (name, color) or (name) for black
+
+%document main font
+\usepackage{fontspec}
+\defaultfontfeatures{Ligatures=TeX}
+\setmainfont{MyriadPro}
+\setsansfont{MyriadPro}
+
+%other fonts
+\newfontfamily\handel{HandelGotD-Bold}
+
+%DIFFICULTY FONTS
+\newcommand{\easy}{\textcolor{green}{Easy}}
+\newcommand{\medium}{\textcolor{blue}{Medium}}
+\newcommand{\hard}{\textcolor{red}{Hard}}
+
+%NO SPECIAL UNITS
+\newcommand{\nounits}{\textcolor{gray}{{\handel\large Special Units:} None}}
+
+%TIME
+\usepackage[ddmmyyyy,hhmmss]{datetime}%for updating current time in the about
+
+%TECHS & FACTION STUFF
+\input{techs}
