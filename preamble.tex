@@ -1,10 +1,18 @@
-%TODO change spacing for starting units.
+% Page style %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\makepagestyle{myplain}
+
+\makeevenhead{myplain}{}{}{}
+\makeoddhead{myplain}{}{}{}
+
+\makeevenfoot{myplain}{}{\thepage}{}
+\makeoddfoot{myplain}{}{\thepage}{}
+
+\pagestyle{myplain}
 
 %GEOMETRY
-\usepackage[lmargin=1cm, rmargin=1cm, top=1cm, bottom=1cm]{geometry}
+\usepackage[lmargin=1cm, rmargin=1cm, top=1cm, bottom=1.5cm]{geometry}
 
 \setlength\parindent{0pt} %no indenting in file
-\pagenumbering{gobble} %supress page numbering
 \usepackage{enumitem}
 
 \usepackage{multicol}
