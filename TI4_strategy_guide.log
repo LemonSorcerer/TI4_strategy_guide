@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.7) (format=lualatex 2020.9.3)  4 SEP 2020 20:32
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.7) (format=lualatex 2020.9.3)  4 SEP 2020 20:38
  restricted system commands enabled.
 **TI4_strategy_guide.tex
 (./TI4_strategy_guide.tex
@@ -1198,13 +1198,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--2
 \tf@toc=\write5
 
 \openout5 = TI4_strategy_guide.toc
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 144.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 144.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
  (./TI4_strategy_guide.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 144.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 144.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 145.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 145.
 Package rerunfilecheck Info: File `TI4_strategy_guide.out' has not changed.
-(rerunfilecheck)             Checksum: 4B0063D587D6D0821D60751FC2FAFE80;3876.
+(rerunfilecheck)             Checksum: 71B019172E2C83E19A2918DDB11D264A;3877.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1212,23 +1212,23 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 18314 strings out of 481302
+ 18316 strings out of 481302
  125007,794899 words of node,token memory allocated
  1116 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 6 attribute, 186 glue_spec
 , 6 attribute_list, 2 write nodes
    avail lists: 1:1,2:813,3:631,4:408,5:1981,6:147,7:11053,8:30,9:662,10:14,11:6
 39
- 34737 multiletter control sequences out of 65536+200000
+ 34738 multiletter control sequences out of 65536+200000
  77 fonts using 7631683 bytes
  47i,11n,75p,1142b,426s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/WINDOWS/Fonts/myriadpro-it.otf><C:/Users/EladT/AppData/Local/Microsoft/Windo
 ws/Fonts/handel_gothic_d_bold.otf><C:/WINDOWS/Fonts/myriadpro-bold.otf><C:/WINDO
 WS/Fonts/myriadpro-regular.otf><C:/Users/EladT/AppData/Local/Programs/MiKTeX/fon
 ts/type1/urw/zapfding/uzdr.pfb>
-Output written on TI4_strategy_guide.pdf (26 pages, 142236 bytes).
+Output written on TI4_strategy_guide.pdf (26 pages, 142366 bytes).
 
-PDF statistics: 283 PDF objects out of 1000 (max. 8388607)
- 52 named destinations out of 1000 (max. 131072)
+PDF statistics: 284 PDF objects out of 1000 (max. 8388607)
+ 53 named destinations out of 1000 (max. 131072)
  217 words of extra memory for PDF output out of 10000 (max. 100000000)
 
