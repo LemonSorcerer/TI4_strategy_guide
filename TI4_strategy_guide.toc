@@ -1,4 +1,4 @@
-\contentsline {chapter}{About}{2}%
+\contentsline {chapter}{About}{1}%
 \contentsline {chapter}{Contents}{2}%
 \contentsline {chapter}{Factions}{3}%
 \contentsline {section}{The Arborec}{3}%
