@@ -1,4 +1,4 @@
-% Page style %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%PAGE STYLE
 \makepagestyle{myplain}
 
 \makeevenhead{myplain}{}{}{}
@@ -68,6 +68,33 @@
 
 %TIME
 \usepackage{datetime}%for updating current time in the about
+
+%LINKS
+\usepackage[colorlinks = true,
+            linkcolor = imperial,
+            urlcolor  = imperial,
+            citecolor = imperial,
+            filecolor = imperial,
+            anchorcolor = imperial]{hyperref}
+
+%HEADERLESS CHAPTERS & SECTIONS
+\makeatletter
+\newcommand{\unchapter}[1]{%
+  \begingroup
+  \let\@makechapterhead\@gobble % make \@makechapterhead do nothing
+  \chapter*{#1}
+  \endgroup
+}
+\makeatother
+
+\makeatletter
+\newcommand{\unsection}[1]{%
+  \begingroup
+  \let\@makesectionhead\@gobble % make \@makesectionhead do nothing
+  \section*{#1}
+  \endgroup
+}
+\makeatother
 
 %TECHS & FACTION STUFF
 \input{techs}
