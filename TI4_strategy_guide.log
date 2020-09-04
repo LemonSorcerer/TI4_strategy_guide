@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.7) (format=lualatex 2020.9.3)  4 SEP 2020 19:13
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.7) (format=lualatex 2020.9.3)  4 SEP 2020 19:16
  restricted system commands enabled.
 **TI4_strategy_guide.tex
 (./TI4_strategy_guide.tex
@@ -820,41 +820,8 @@ ii
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-b
 ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/generic/infwarerr/infwarerr.s
-ty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/grfext/grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-
-(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/generic/kvdefinekeys/kvdefine
-keys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-))
-(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
-(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
-)
-(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/generic/kvsetkeys/kvsetkeys.s
-ty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-))
-(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/generic/pdftexcmds/pdftexcmds
-.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
-
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks33
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 5.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG
-,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 )
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
@@ -919,7 +886,14 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/fmtcount/fc-english.def
 File: fc-english.def 2016/01/12
-) (./about.tex) (./factions/arborec.tex
+) (./about.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 12.
+) (./factions/arborec.tex
 LaTeX Font Info:    Font shape `TU/MyriadPro(0)/m/sl' in size <10> not available
 
 (Font)              Font shape `TU/MyriadPro(0)/m/it' tried instead on input lin
@@ -1057,21 +1031,21 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 11180 strings out of 481302
+ 10716 strings out of 481302
  125011,662416 words of node,token memory allocated
  1111 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 6 attribute, 185 glue_spec
 , 6 attribute_list, 2 write nodes
-   avail lists: 1:4,2:776,3:623,4:408,5:1975,6:146,7:11025,8:1,9:657,10:13,11:63
+   avail lists: 1:1,2:776,3:623,4:408,5:1975,6:146,7:11025,8:3,9:657,10:14,11:63
 9
- 27833 multiletter control sequences out of 65536+200000
- 52 fonts using 5769819 bytes
+ 27421 multiletter control sequences out of 65536+200000
+ 64 fonts using 6618723 bytes
  47i,11n,75p,1142b,426s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/WINDOWS/Fonts/myriadpro-it.otf><C:/WINDOWS/Fonts/myriadpro-bold.otf><C:/User
 s/EladT/AppData/Local/Microsoft/Windows/Fonts/handel_gothic_d_bold.otf><C:/WINDO
 WS/Fonts/myriadpro-regular.otf><C:/Users/EladT/AppData/Local/Programs/MiKTeX/fon
 ts/type1/urw/zapfding/uzdr.pfb>
-Output written on TI4_strategy_guide.pdf (25 pages, 119670 bytes).
+Output written on TI4_strategy_guide.pdf (25 pages, 119735 bytes).
 
 PDF statistics: 113 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
