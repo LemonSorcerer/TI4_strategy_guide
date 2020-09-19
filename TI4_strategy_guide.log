@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.7) (format=lualatex 2020.9.3)  19 SEP 2020 12:01
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.7) (format=lualatex 2020.9.3)  19 SEP 2020 12:31
  restricted system commands enabled.
 **TI4_strategy_guide.tex
 (./TI4_strategy_guide.tex
@@ -1217,7 +1217,7 @@ Here is how much of LuaTeX's memory you used:
  1126 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 6 attribute, 188 glue_spec
 , 6 attribute_list, 2 write nodes
-   avail lists: 1:1,2:823,3:646,4:408,5:1970,6:147,7:11035,8:30,9:673,10:14,11:6
+   avail lists: 1:1,2:823,3:646,4:408,5:1970,6:147,7:11041,8:30,9:673,10:14,11:6
 39
  34738 multiletter control sequences out of 65536+200000
  77 fonts using 7631683 bytes
@@ -1226,7 +1226,7 @@ Here is how much of LuaTeX's memory you used:
 ws/Fonts/handel_gothic_d_bold.otf><C:/WINDOWS/Fonts/myriadpro-bold.otf><C:/WINDO
 WS/Fonts/myriadpro-regular.otf><C:/Users/EladT/AppData/Local/Programs/MiKTeX/fon
 ts/type1/urw/zapfding/uzdr.pfb>
-Output written on TI4_strategy_guide.pdf (26 pages, 142553 bytes).
+Output written on TI4_strategy_guide.pdf (26 pages, 142545 bytes).
 
 PDF statistics: 284 PDF objects out of 1000 (max. 8388607)
  53 named destinations out of 1000 (max. 131072)
