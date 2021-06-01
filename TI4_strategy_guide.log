@@ -1,63 +1,36 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.7) (format=lualatex 2020.9.3)  9 MAY 2021 18:33
+This is LuaHBTeX, Version 1.13.0 (MiKTeX 21.3) (format=lualatex 2021.6.1)  2 JUN 2021 01:35
  restricted system commands enabled.
 **TI4_strategy_guide.tex
 (./TI4_strategy_guide.tex
-LaTeX2e <2020-02-02> patch level 5
-Lua module: luaotfload-main 2020-05-06 3.14 luaotfload entry point
-Lua module: luaotfload-init 2020-05-06 3.14 luaotfload submodule / initializatio
-n
-Lua module: lualibs 2020-05-01 2.71 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2020-05-01 2.71 ConTeXt Lua libraries -- extended c
+LaTeX2e <2020-10-01> patch level 4
+Lua module: luaotfload 2021-05-21 3.18 Lua based OpenType font support
+Lua module: lualibs 2021-05-20 2.74 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2021-05-20 2.74 ConTeXt Lua libraries -- extended c
 ollection.
-Lua module: luaotfload-log 2020-05-06 3.14 luaotfload submodule / logging
-Lua module: luaotfload-parsers 2020-05-06 3.14 luaotfload submodule / filelist
-Lua module: luaotfload-configuration 2020-05-06 3.14 luaotfload submodule / conf
-ig file reader
 luaotfload | conf : Root cache directory is "C:/Users/EladT/AppData/Local/MiKTeX
-/luatex-cache/generic-dev/names".
-luaotfload | init : Loading fontloader "fontloader-2020-05-06.lua" from kpse-res
+/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2021-05-20.lua" from kpse-res
 olved path "C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/f
-ontloader-2020-05-06.lua".
+ontloader-2021-05-20.lua".
 Lua-only attribute luaotfload@noligature = 1
 Lua-only attribute luaotfload@syllabe = 2
-luaotfload | init : Context OpenType loader version 0x1.8e353f7ced917p+1
-Lua module: luaotfload-fallback 2020-05-06 3.14 luaotfload submodule / fallback
-Lua module: luaotfload-multiscript 2020-05-06 3.14 luaotfload submodule / multis
-cript
-Lua module: luaotfload-script 2020-05-06 3.14 luaotfload submodule / Script help
-ers
+luaotfload | init : Context OpenType loader version 3.116
 Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
 Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
-Lua module: luaotfload-loaders 2020-05-06 3.14 luaotfload submodule / callback h
-andling
+Inserting `luaotfload.glyph_stream' at position 1 in `glyph_stream_provider'.
 Inserting `luaotfload.define_font' at position 1 in `define_font'.
-Lua module: luaotfload-database 2020-05-06 3.14 luaotfload submodule / database
-Lua module: luaotfload-unicode 2020-05-06 3.14 luaotfload submodule / Unicode he
-lpers
-Lua module: luaotfload-colors 2020-05-06 3.14 luaotfload submodule / color
 Lua-only attribute luaotfload_color_attribute = 3
-Lua module: luaotfload-resolvers 2020-05-06 3.14 luaotfload submodule / resolver
-s
 luaotfload | conf : Root cache directory is "C:/Users/EladT/AppData/Local/MiKTeX
-/luatex-cache/generic-dev/names".
-Lua module: luaotfload-features 2020-05-06 3.14 luaotfload submodule / features
-Lua module: luaotfload-harf-define 2020-05-06 3.14 luaotfload submodule / databa
-se
+/luatex-cache/generic/names".
 Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
 Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
-Lua module: luaotfload-harf-plug 2020-05-06 3.14 luaotfload submodule / database
-Inserting `Harf pre_output_filter callback' at position 1 in `pre_output_filter'
-.
-Inserting `Harf wrapup_run callback' at position 1 in `wrapup_run'.
-Inserting `Harf finish_pdffile callback' at position 1 in `finish_pdffile'.
-Inserting `Harf glyph_info callback' at position 1 in `glyph_info'.
-Lua module: luaotfload-letterspace 2020-05-06 3.14 luaotfload submodule / color
-Lua module: luaotfload-embolden 2020-05-06 3.14 luaotfload submodule / color
-Lua module: luaotfload-notdef 2020-05-06 3.14 luaotfload submodule / color
-Lua module: luaotfload-suppress 2020-05-06 3.14 luaotfload submodule / suppress
-Lua module: luaotfload-szss 2020-05-06 3.14 luaotfload submodule / color
-Lua module: luaotfload-auxiliary 2020-05-06 3.14 luaotfload submodule / auxiliar
-y functions
+Inserting `luaotfload.harf.finalize_vlist' at position 1 in `post_linebreak_filt
+er'.
+Inserting `luaotfload.harf.finalize_hlist' at position 2 in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' at position 1 in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' at position 1 in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' at position 1 in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 4
 Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
 font'.
 Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_fon
@@ -69,19 +42,16 @@ t_unsafe'.
 Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
-Lua module: luaotfload-tounicode 2020-05-06 3.14 luaotfload submodule / tounicod
-e
 Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
-. L3 programming layer <2020-08-07>
+. L3 programming layer <2021-05-27>
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/memoir/memoir.cls
-Document Class: memoir 2020/06/02 v3.7l configurable book, report, article docum
-ent class
+Document Class: memoir 2021/03/23 v3.7o configurable book, report, article docu
+ment class
 \onelineskip=\skip47
 \lxvchars=\skip48
 \xlvchars=\skip49
-\@memcnta=\count164
-\c@@memmarkcntra=\count165
-LaTeX Info: Redefining \InputIfFileExists on input line 140.
+\@memcnta=\count177
+\c@@memmarkcntra=\count178
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
@@ -93,7 +63,7 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/memoir/mem10.clo
 File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 luaotfload | db : Font names database loaded from C:/Users/EladT/AppData/Local/M
-iKTeX/luatex-cache/generic-dev/names/luaotfload-names.luc)
+iKTeX/luatex-cache/generic/names/luaotfload-names.luc)
 \binding=\skip54
 \spinemargin=\skip55
 \foremargin=\skip56
@@ -104,20 +74,20 @@ iKTeX/luatex-cache/generic-dev/names/luaotfload-names.luc)
 \mem@maxheadheight=\skip61
 \mem@maxfootheight=\skip62
 \headwidth=\skip63
-\c@storedpagenumber=\count166
-\memPD=\dimen134
+\c@storedpagenumber=\count179
+\memPD=\dimen138
 \m@mabparskip=\skip64
 \thanksmarkwidth=\skip65
 \thanksmarksep=\skip66
 \droptitle=\skip67
-\c@book=\count167
-\c@part=\count168
-\c@chapter=\count169
-\c@section=\count170
-\c@subsection=\count171
-\c@subsubsection=\count172
-\c@paragraph=\count173
-\c@subparagraph=\count174
+\c@book=\count180
+\c@part=\count181
+\c@chapter=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
 \beforechapskip=\skip68
 \midchapskip=\skip69
 \afterchapskip=\skip70
@@ -139,10 +109,10 @@ iKTeX/luatex-cache/generic-dev/names/luaotfload-names.luc)
 \beforesubparaskip=\skip86
 \aftersubparaskip=\skip87
 \pfbreakskip=\skip88
-\c@@ppsavesec=\count175
-\c@@ppsaveapp=\count176
-\ragrparindent=\dimen135
-\everylistparindent=\dimen136
+\c@@ppsavesec=\count188
+\c@@ppsaveapp=\count189
+\ragrparindent=\dimen139
+\everylistparindent=\dimen140
 \parsepi=\skip89
 \topsepi=\skip90
 \itemsepi=\skip91
@@ -158,83 +128,85 @@ iKTeX/luatex-cache/generic-dev/names/luaotfload-names.luc)
 \@enLab=\toks15
 \abstitleskip=\skip101
 \absleftindent=\skip102
-\abs@leftindent=\dimen137
+\abs@leftindent=\dimen141
 \absrightindent=\skip103
 \absparindent=\skip104
 \absparsep=\skip105
-\c@vslineno=\count177
-\c@poemline=\count178
-\c@modulo@vs=\count179
-\c@memfvsline=\count180
+\c@vslineno=\count190
+\c@poemline=\count191
+\c@modulo@vs=\count192
+\c@memfvsline=\count193
 \vleftskip=\skip106
 \vrightskip=\skip107
 \stanzaskip=\skip108
 \versewidth=\skip109
 \vgap=\skip110
 \vindent=\skip111
-\vleftmargin=\dimen138
-\c@verse=\count181
-\c@chrsinstr=\count182
+\vleftmargin=\dimen142
+\c@verse=\count194
+\c@chrsinstr=\count195
 \beforepoemtitleskip=\skip112
 \afterpoemtitleskip=\skip113
-\c@poem=\count183
+\c@poem=\count196
 \beforePoemTitleskip=\skip114
 \midPoemTitleskip=\skip115
 \afterPoemTitleskip=\skip116
 
-(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty
-Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen139
-\ar@mcellbox=\box45
-\extrarowheight=\dimen140
+(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/latex-tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen143
+\ar@mcellbox=\box47
+\extrarowheight=\dimen144
 \NC@list=\toks16
 \extratabsurround=\skip117
 \backup@length=\skip118
-\ar@cellbox=\box46
+\ar@cellbox=\box48
 )
-(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/tools/dcolumn.sty
+(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/latex-tools/dcolumn.sty
 Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
 )
-(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/tools/delarray.sty
+(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/latex-tools/delarray.st
+y
 Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
 )
-(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty
+(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/latex-tools/tabularx.st
+y
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-\TX@col@width=\dimen141
-\TX@old@table=\dimen142
-\TX@old@col=\dimen143
-\TX@target=\dimen144
-\TX@delta=\dimen145
-\TX@cols=\count184
+\TX@col@width=\dimen145
+\TX@old@table=\dimen146
+\TX@old@col=\dimen147
+\TX@target=\dimen148
+\TX@delta=\dimen149
+\TX@cols=\count197
 \TX@ftn=\toks17
 )
-\heavyrulewidth=\dimen146
-\lightrulewidth=\dimen147
-\cmidrulewidth=\dimen148
-\belowrulesep=\dimen149
-\belowbottomsep=\dimen150
-\aboverulesep=\dimen151
-\abovetopsep=\dimen152
-\cmidrulesep=\dimen153
-\cmidrulekern=\dimen154
-\defaultaddspace=\dimen155
-\@cmidla=\count185
-\@cmidlb=\count186
-\@aboverulesep=\dimen156
-\@belowrulesep=\dimen157
-\@thisruleclass=\count187
-\@lastruleclass=\count188
-\@thisrulewidth=\dimen158
+\heavyrulewidth=\dimen150
+\lightrulewidth=\dimen151
+\cmidrulewidth=\dimen152
+\belowrulesep=\dimen153
+\belowbottomsep=\dimen154
+\aboverulesep=\dimen155
+\abovetopsep=\dimen156
+\cmidrulesep=\dimen157
+\cmidrulekern=\dimen158
+\defaultaddspace=\dimen159
+\@cmidla=\count198
+\@cmidlb=\count199
+\@aboverulesep=\dimen160
+\@belowrulesep=\dimen161
+\@thisruleclass=\count266
+\@lastruleclass=\count267
+\@thisrulewidth=\dimen162
 \ctableftskip=\skip119
 \ctabrightskip=\skip120
-\abovecolumnspenalty=\count189
-\@linestogo=\count190
-\@cellstogo=\count191
-\@cellsincolumn=\count192
+\abovecolumnspenalty=\count268
+\@linestogo=\count269
+\@cellstogo=\count270
+\@cellsincolumn=\count271
 \crtok=\toks18
-\@mincolumnwidth=\dimen159
-\c@newflo@tctr=\count193
-\mem@margin@floatbox=\box47
+\@mincolumnwidth=\dimen163
+\c@newflo@tctr=\count272
+\mem@margin@floatbox=\box49
 \@contcwidth=\skip121
 \@contindw=\skip122
 \abovecaptionskip=\skip123
@@ -244,29 +216,29 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \subfloatcaptopadj=\skip127
 \subfloatbottomskip=\skip128
 \subfloatlabelskip=\skip129
-\subfloatcapmargin=\dimen160
-\c@@contsubnum=\count194
-\m@mscap@capbox=\box48
-\m@mscap@fbox=\box49
-\sidecapsep=\dimen161
-\sidecapwidth=\dimen162
-\m@m@tempdima=\dimen163
-\m@mscapraise=\dimen164
-\sidecapraise=\dimen165
-\m@mscapmainwidth=\dimen166
-\m@mscaplkern=\dimen167
+\subfloatcapmargin=\dimen164
+\c@@contsubnum=\count273
+\m@mscap@capbox=\box50
+\m@mscap@fbox=\box51
+\sidecapsep=\dimen165
+\sidecapwidth=\dimen166
+\m@m@tempdima=\dimen167
+\m@mscapraise=\dimen168
+\sidecapraise=\dimen169
+\m@mscapmainwidth=\dimen170
+\m@mscaplkern=\dimen171
 \beforeepigraphskip=\skip130
 \afterepigraphskip=\skip131
 \epigraphwidth=\skip132
 \epigraphrule=\skip133
-LaTeX Info: Redefining \em on input line 7664.
-LaTeX Info: Redefining \emph on input line 7672.
+LaTeX Info: Redefining \em on input line 7650.
+LaTeX Info: Redefining \emph on input line 7658.
 \tocentryskip=\skip134
 \tocbaseline=\skip135
 \cftparskip=\skip136
 \cftbeforebookskip=\skip137
-\cftbookindent=\dimen168
-\cftbooknumwidth=\dimen169
+\cftbookindent=\dimen172
+\cftbooknumwidth=\dimen173
 \cftbeforepartskip=\skip138
 \cftpartindent=\skip139
 \cftpartnumwidth=\skip140
@@ -288,18 +260,18 @@ LaTeX Info: Redefining \emph on input line 7672.
 \cftbeforesubparagraphskip=\skip156
 \cftsubparagraphindent=\skip157
 \cftsubparagraphnumwidth=\skip158
-\prechapterprecisshift=\dimen170
-\c@maxsecnumdepth=\count195
-\bibindent=\dimen171
+\prechapterprecisshift=\dimen174
+\c@maxsecnumdepth=\count274
+\bibindent=\dimen175
 \bibitemsep=\skip159
 \indexcolsep=\skip160
 \indexrule=\skip161
 \indexmarkstyle=\toks19
-\@indexbox=\insert199
-\glossarycolsep=\dimen172
-\glossaryrule=\dimen173
+\@indexbox=\insert252
+\glossarycolsep=\dimen176
+\glossaryrule=\dimen177
 \sideparvshift=\skip162
-\sideins=\insert198
+\sideins=\insert251
 \sidebartopsep=\skip163
 \sidebarhsep=\skip164
 \sidebarvsep=\skip165
@@ -308,68 +280,66 @@ LaTeX Info: Redefining \emph on input line 7672.
 \footmarksep=\skip168
 \footparindent=\skip169
 \footinsdim=\skip170
-\footinsv@r=\insert197
-\@mpfootinsv@r=\insert196
-\m@m@k=\count266
-\m@m@h=\dimen174
+\footinsv@r=\insert250
+\@mpfootinsv@r=\insert249
+\m@m@k=\count275
+\m@m@h=\dimen178
 \m@mipn@skip=\skip171
-\sidefootins=\insert252
+\sidefootins=\insert248
 \sidefootadjust=\skip172
 \sidefootheight=\skip173
 \sidefoothsep=\skip174
 \sidefootvsep=\skip175
 \sidefootwidth=\skip176
 \m@mdownsf=\skip177
-\c@sidefootnote=\count267
+\c@sidefootnote=\count276
 \sidefootmarkwidth=\skip178
 \sidefootmarksep=\skip179
 \sidefootparindent=\skip180
-\c@pagenote=\count268
-\c@pagenoteshadow=\count269
+\c@pagenote=\count277
+\c@pagenoteshadow=\count278
 \mem@pn@lastkern=\skip181
 \every@verbatim=\toks20
 \afterevery@verbatim=\toks21
 \verbatim@line=\toks22
-\tab@position=\count270
+\tab@position=\count279
 \verbatim@in@stream=\read2
 \verbatimindent=\skip182
 \verbatim@out=\write3
 \bvboxsep=\skip183
-\c@memfbvline=\count271
-\c@bvlinectr=\count272
+\c@memfbvline=\count280
+\c@bvlinectr=\count281
 \bvnumlength=\skip184
-\fb@frw=\dimen175
-\fb@frh=\dimen176
-\FrameRule=\dimen177
-\FrameSep=\dimen178
-\c@cp@cntr=\count273
-LaTeX Info: Redefining \: on input line 12199.
-LaTeX Info: Redefining \! on input line 12199.
-\c@ism@mctr=\count274
-\c@xsm@mctr=\count275
-\c@csm@mctr=\count276
-\c@ksm@mctr=\count277
-\c@xksm@mctr=\count278
-\c@cksm@mctr=\count279
-\c@msm@mctr=\count280
-\c@xmsm@mctr=\count281
-\c@cmsm@mctr=\count282
-\c@bsm@mctr=\count283
-\c@workm@mctr=\count284
-\c@sheetsequence=\count285
-\c@lastsheet=\count286
-\c@lastpage=\count287
+\fb@frw=\dimen179
+\fb@frh=\dimen180
+\FrameRule=\dimen181
+\FrameSep=\dimen182
+\c@cp@cntr=\count282
+\c@ism@mctr=\count283
+\c@xsm@mctr=\count284
+\c@csm@mctr=\count285
+\c@ksm@mctr=\count286
+\c@xksm@mctr=\count287
+\c@cksm@mctr=\count288
+\c@msm@mctr=\count289
+\c@xmsm@mctr=\count290
+\c@cmsm@mctr=\count291
+\c@bsm@mctr=\count292
+\c@workm@mctr=\count293
+\c@sheetsequence=\count294
+\c@lastsheet=\count295
+\c@lastpage=\count296
 
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/textcase/textcase.sty
 Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
 )
-\c@figure=\count288
-\c@lofdepth=\count289
+\c@figure=\count297
+\c@lofdepth=\count298
 \cftbeforefigureskip=\skip185
 \cftfigureindent=\skip186
 \cftfigurenumwidth=\skip187
-\c@table=\count290
-\c@lotdepth=\count291
+\c@table=\count299
+\c@lotdepth=\count300
 \cftbeforetableskip=\skip188
 \cfttableindent=\skip189
 \cfttablenumwidth=\skip190
@@ -387,7 +357,6 @@ Package ifmtarg [2008/07/23] emulated by memoir.
 Package index [2008/07/23] emulated by memoir.
 Package makeidx [2008/07/23] emulated by memoir.
 Package moreverb [2008/07/23] emulated by memoir.
-Package mparhack [2008/07/23] emulated by memoir.
 Package needspace [2008/07/23] emulated by memoir.
 Package newfile [2008/07/23] emulated by memoir.
 Package nextpage [2008/07/23] emulated by memoir.
@@ -415,52 +384,52 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count292
-\Gm@cntv=\count293
-\c@Gm@tempcnt=\count294
-\Gm@bindingoffset=\dimen179
-\Gm@wd@mp=\dimen180
-\Gm@odd@mp=\dimen181
-\Gm@even@mp=\dimen182
-\Gm@layoutwidth=\dimen183
-\Gm@layoutheight=\dimen184
-\Gm@layouthoffset=\dimen185
-\Gm@layoutvoffset=\dimen186
+\Gm@cnth=\count301
+\Gm@cntv=\count302
+\c@Gm@tempcnt=\count303
+\Gm@bindingoffset=\dimen183
+\Gm@wd@mp=\dimen184
+\Gm@odd@mp=\dimen185
+\Gm@even@mp=\dimen186
+\Gm@layoutwidth=\dimen187
+\Gm@layoutheight=\dimen188
+\Gm@layouthoffset=\dimen189
+\Gm@layoutvoffset=\dimen190
 \Gm@dimlist=\toks24
 
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.cfg)) (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip191
-\enit@outerparindent=\dimen187
+\enit@outerparindent=\dimen191
 \enit@toks=\toks25
-\enit@inbox=\box50
-\enit@count@id=\count295
-\enitdp@description=\count296
-) (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty
+\enit@inbox=\box52
+\enit@count@id=\count304
+\enitdp@description=\count305
+)
+(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/latex-tools/multicol.st
+y
 Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count297
-\mult@box=\box51
-\multicol@leftmargin=\dimen188
-\c@unbalance=\count298
-\c@collectmore=\count299
-\doublecol@number=\count300
-\multicoltolerance=\count301
-\multicolpretolerance=\count302
-\full@width=\dimen189
-\page@free=\dimen190
-\premulticols=\dimen191
-\postmulticols=\dimen192
+\c@tracingmulticols=\count306
+\mult@box=\box53
+\multicol@leftmargin=\dimen192
+\c@unbalance=\count307
+\c@collectmore=\count308
+\doublecol@number=\count309
+\multicoltolerance=\count310
+\multicolpretolerance=\count311
+\full@width=\dimen193
+\page@free=\dimen194
+\premulticols=\dimen195
+\postmulticols=\dimen196
 \multicolsep=\skip192
 \multicolbaselineskip=\skip193
-\partial@page=\box52
-\last@line=\box53
-\maxbalancingoverflow=\dimen193
-\mult@rightbox=\box54
-\mult@grightbox=\box55
-\mult@gfirstbox=\box56
-\mult@firstbox=\box57
-\@tempa=\box58
-\@tempa=\box59
+\partial@page=\box54
+\last@line=\box55
+\maxbalancingoverflow=\dimen197
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@gfirstbox=\box58
+\mult@firstbox=\box59
 \@tempa=\box60
 \@tempa=\box61
 \@tempa=\box62
@@ -496,48 +465,44 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \@tempa=\box92
 \@tempa=\box93
 \@tempa=\box94
-\c@minrows=\count303
-\c@columnbadness=\count304
-\c@finalcolumnbadness=\count305
-\last@try=\dimen194
-\multicolovershoot=\dimen195
+\@tempa=\box95
+\@tempa=\box96
+\c@minrows=\count312
+\c@columnbadness=\count313
+\c@finalcolumnbadness=\count314
+\last@try=\dimen198
+\multicolovershoot=\dimen199
 \multicolundershoot=\dimen256
-\mult@nat@firstbox=\box95
-\colbreak@box=\box96
-\mc@col@check@num=\count306
-)
-(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty
+\mult@nat@firstbox=\box97
+\colbreak@box=\box98
+\mc@col@check@num=\count315
+) (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.sty
-Package: expl3 2020-08-07 L3 programming layer (loader) 
+Package: expl3 2021-05-27 L3 programming layer (loader) 
 
-(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdf
-mode.def
-File: l3backend-pdfmode.def 2020-08-07 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count307
-\l__pdf_internal_box=\box97
+(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-lua
+tex.def
+File: l3backend-luatex.def 2021-05-07 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count316
+\l__pdf_internal_box=\box99
 ))
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
 
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/xpars
 e.sty
-Package: xparse 2020-05-15 L3 Experimental document command parser
-
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/xpars
-e-generic.tex
-\l__xparse_current_arg_int=\count308
-\g__xparse_grabber_int=\count309
-\l__xparse_m_args_int=\count310
-\l__xparse_v_nesting_int=\count311
-))
+e-2020-10-01.sty
+(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/xpars
+e-generic.tex)))
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/07/15 v2.5i e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count312
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count317
 )) (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphicx.st
 y
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphics.sty
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
 
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
@@ -549,7 +514,7 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 Package graphics Info: Driver file: luatex.def on input line 105.
 
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/luatex.def
-File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
+File: luatex.def 2021/05/26 v1.2b Graphics/color driver for luatex
 ))
 \Gin@req@height=\dimen257
 \Gin@req@width=\dimen258
@@ -576,10 +541,12 @@ File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
 Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
 LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
 
+
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/upzd.fd
 File: upzd.fd 2001/06/04 font definitions for U/pzd.
 )
 LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
 
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/upsy.fd
 File: upsy.fd 2001/06/04 font definitions for U/psy.
@@ -589,35 +556,35 @@ Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
 Lua module: fontspec 2020/02/21 2.7i Font selection for XeLaTeX and LuaLaTeX
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec-luate
 x.sty
-Package: fontspec-luatex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
-X
-\l__fontspec_script_int=\count313
-\l__fontspec_language_int=\count314
-\l__fontspec_strnum_int=\count315
-\l__fontspec_tmp_int=\count316
-\l__fontspec_tmpa_int=\count317
-\l__fontspec_tmpb_int=\count318
-\l__fontspec_tmpc_int=\count319
-\l__fontspec_em_int=\count320
-\l__fontspec_emdef_int=\count321
-\l__fontspec_strong_int=\count322
-\l__fontspec_strongdef_int=\count323
+Package: fontspec-luatex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count318
+\l__fontspec_language_int=\count319
+\l__fontspec_strnum_int=\count320
+\l__fontspec_tmp_int=\count321
+\l__fontspec_tmpa_int=\count322
+\l__fontspec_tmpb_int=\count323
+\l__fontspec_tmpc_int=\count324
+\l__fontspec_em_int=\count325
+\l__fontspec_emdef_int=\count326
+\l__fontspec_strong_int=\count327
+\l__fontspec_strongdef_int=\count328
 \l__fontspec_tmpa_dim=\dimen259
 \l__fontspec_tmpb_dim=\dimen260
 \l__fontspec_tmpc_dim=\dimen261
  (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
-Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 ) (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.cfg
 )))
 luaotfload | cache : Lookup cache loaded from C:/Users/EladT/AppData/Local/MiKTe
-X/luatex-cache/generic-dev/names/luaotfload-lookup-cache.luc.
+X/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | aux : font no 35 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 36 (nil) does not define feature smcp for script latn
+ with language dflt
 luaotfload | aux : font no 37 (nil) does not define feature smcp for script latn
  with language dflt
 luaotfload | aux : font no 38 (nil) does not define feature smcp for script latn
- with language dflt
-luaotfload | aux : font no 39 (nil) does not define feature smcp for script latn
- with language dflt
-luaotfload | aux : font no 40 (nil) does not define feature smcp for script latn
  with language dflt
 
 Package fontspec Info: Font family 'MyriadPro(0)' created for font 'MyriadPro'
@@ -627,20 +594,20 @@ Package fontspec Info: Font family 'MyriadPro(0)' created for font 'MyriadPro'
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"MyriadPro:mode=node;script=latn;language=dflt;+tlig;"
-
+(fontspec)             <->"MyriadPro:mode=node;script=latn;language=dflt;+tlig;
+"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"MyriadPro/B:mode=node;script=latn;language=dflt;+tlig
-;"
+(fontspec)             <->"MyriadPro/B:mode=node;script=latn;language=dflt;+tli
+g;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"MyriadPro/I:mode=node;script=latn;language=dflt;+tlig
-;"
+(fontspec)             <->"MyriadPro/I:mode=node;script=latn;language=dflt;+tli
+g;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"MyriadPro/BI:mode=node;script=latn;language=dflt;+tli
-g;"
+(fontspec)             <->"MyriadPro/BI:mode=node;script=latn;language=dflt;+tl
+ig;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 
@@ -655,7 +622,7 @@ Package fontspec Info: Could not resolve font "HandelGotD-Bold/B" (it probably
 Package fontspec Info: Could not resolve font "HandelGotD-Bold/I" (it probably
 (fontspec)             doesn't exist).
 
-luaotfload | aux : font no 45 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 43 (nil) does not define feature smcp for script latn
  with language dflt
 
 Package fontspec Info: Font family 'HandelGotD-Bold(0)' created for font
@@ -665,8 +632,8 @@ Package fontspec Info: Font family 'HandelGotD-Bold(0)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"HandelGotD-Bold:mode=node;script=latn;language=dflt;+
-tlig;"
+(fontspec)             <->"HandelGotD-Bold:mode=node;script=latn;language=dflt;
++tlig;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
@@ -680,14 +647,14 @@ Package: fmtcount 2020/01/30 v3.07
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkeyval.tex
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks26
 \XKV@tempa@toks=\toks27
 )
-\XKV@depth=\count324
+\XKV@depth=\count329
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/fmtcount/fcprefix.sty
@@ -696,61 +663,61 @@ Package: fcprefix 2012/09/28
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/fmtcount/fcnumparser.st
 y
 Package: fcnumparser 2017/06/15
-\fc@digit@counter=\count325
+\fc@digit@counter=\count330
 )) (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks28
 \ex@=\dimen262
 )
-\c@padzeroesN=\count326
-\fc@tmpcatcode=\count327
-\@DT@modctr=\count328
-\@ordinalctr=\count329
-\@orgargctr=\count330
-\@strctr=\count331
-\@tmpstrctr=\count332
-\@DT@loopN=\count333
-\@DT@X=\count334
+\c@padzeroesN=\count331
+\fc@tmpcatcode=\count332
+\@DT@modctr=\count333
+\@ordinalctr=\count334
+\@orgargctr=\count335
+\@strctr=\count336
+\@tmpstrctr=\count337
+\@DT@loopN=\count338
+\@DT@X=\count339
 
-Package fmtcount Warning: \ordinal already defined use \FCordinal instead. on in
-put line 466.
+Package fmtcount Warning: \ordinal already defined use \FCordinal instead. on i
+nput line 466.
 
 )
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/datetime/datetime-defau
 lts.sty
 Package: datetime-defaults 2013/09/10
 )
-\@day=\count335
-\@month=\count336
-\@year=\count337
-\c@HOUR=\count338
-\c@HOURXII=\count339
-\c@MINUTE=\count340
-\c@TOHOUR=\count341
-\c@TOMINUTE=\count342
-\c@SECOND=\count343
-\currenthour=\count344
-\currentminute=\count345
-\currentsecond=\count346
-Package datetime Info: No datetime.cfg file found, using default settings on inp
-ut line 308.
-\@dtctr=\count347
-\dayofyear=\count348
-\dayofweek=\count349
+\@day=\count340
+\@month=\count341
+\@year=\count342
+\c@HOUR=\count343
+\c@HOURXII=\count344
+\c@MINUTE=\count345
+\c@TOHOUR=\count346
+\c@TOMINUTE=\count347
+\c@SECOND=\count348
+\currenthour=\count349
+\currentminute=\count350
+\currentsecond=\count351
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count352
+\dayofyear=\count353
+\dayofweek=\count354
 LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks29
 \dt@b=\toks30
 )
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
 
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/generic/pdftexcmds/pdftexcmds
 .sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
-
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
 
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/generic/infwarerr/infwarerr.s
 ty
@@ -783,13 +750,18 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen263
-\Hy@linkcounter=\count350
-\Hy@pagecounter=\count351
+\Hy@linkcounter=\count355
+\Hy@pagecounter=\count356
  (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+)
+(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyperref-langp
+atches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
 )
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
@@ -797,21 +769,25 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count352
-Package hyperref Info: Option `colorlinks' set `true' on input line 4338.
-Package hyperref Info: Hyper figures OFF on input line 4464.
-Package hyperref Info: Link nesting OFF on input line 4469.
-Package hyperref Info: Hyper index ON on input line 4472.
-Package hyperref Info: Plain pages OFF on input line 4479.
-Package hyperref Info: Backreferencing OFF on input line 4484.
+\Hy@SavedSpaceFactor=\count357
+ (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count353
- (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count358
+
+(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5076.
+LaTeX Info: Redefining \url on input line 4804.
 \XeTeXLinkMargin=\dimen264
 
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.sty
@@ -819,51 +795,53 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintcalc
 .sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
-
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
 ))
-\Fld@menulength=\count354
+\Fld@menulength=\count359
 \Field@Width=\dimen265
 \Fld@charsize=\dimen266
-Package hyperref Info: Hyper figures OFF on input line 6347.
-Package hyperref Info: Link nesting OFF on input line 6352.
-Package hyperref Info: Hyper index ON on input line 6355.
-Package hyperref Info: backreferencing OFF on input line 6362.
-Package hyperref Info: Link coloring ON on input line 6365.
-Package hyperref Info: Link coloring with OCG OFF on input line 6372.
-Package hyperref Info: PDF/A mode OFF on input line 6377.
-LaTeX Info: Redefining \ref on input line 6417.
-LaTeX Info: Redefining \pageref on input line 6421.
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring ON on input line 6093.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
 
-(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty
-Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
 )
-\Hy@abspage=\count355
-\c@Item=\count356
-\c@Hfootnote=\count357
+\Hy@abspage=\count360
+\c@Item=\count361
+\c@Hfootnote=\count362
 ) (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/memoir/memhfixc.sty
-Package: memhfixc 2019/10/24 v1.18 nameref/hyperref package fixes for memoir cla
-ss
-\c@memhycontfloat=\count358
-\c@Hpagenote=\count359
+Package: memhfixc 2019/10/24 v1.18 nameref/hyperref package fixes for memoir cl
+ass
+\c@memhycontfloat=\count363
+\c@Hpagenote=\count364
 )
 Package hyperref Info: Driver (autodetected): hluatex.
-(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hluatex.def
-File: hluatex.def 2020-05-15 v7.00e Hyperref driver for luaTeX
 
-(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/puenc.def
-File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
-)
+(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2021-02-27 v7.00k Hyperref driver for luaTeX
+
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/generic/stringenc/stringenc.s
 ty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
-
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
-(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/atveryend/atveryend.sty
-Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 )
-\Fld@listcount=\count360
-\c@bookmark@seq@number=\count361
+(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count365
+\c@bookmark@seq@number=\count366
 
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfil
 echeck.sty
@@ -873,40 +851,40 @@ Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 ounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
-6.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
 )
 \Hy@SectionHShift=\skip194
 ) (./techs.tex (./global_tech.tex) (./faction_tech.tex)))
 (./TI4_strategy_guide.aux)
 \openout1 = TI4_strategy_guide.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 22
-.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
+4.
 
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -946,92 +924,97 @@ LaTeX Font Info:    ... okay on input line 22.
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count362
+\scratchcounter=\count367
 \scratchdimen=\dimen267
-\scratchbox=\box98
-\nofMPsegments=\count363
-\nofMParguments=\count364
+\scratchbox=\box100
+\nofMPsegments=\count368
+\nofMParguments=\count369
 \everyMPshowfont=\toks32
-\MPscratchCnt=\count365
+\MPscratchCnt=\count370
 \MPscratchDim=\dimen268
-\MPnumerator=\count366
-\makeMPintoPDFobject=\count367
+\MPnumerator=\count371
+\makeMPintoPDFobject=\count372
 \everyMPtoPDFconversion=\toks33
 )
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-b
 ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
-5.
-)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/00miktex/epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 22.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 22.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 22.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 22.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 22.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 22.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 22.
-LaTeX Font Info:    Redeclaring math accent \check on input line 22.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 22.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 22.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 22.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 22.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 24.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 24.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 24.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 24.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 24.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 24.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 24.
+LaTeX Font Info:    Redeclaring math accent \check on input line 24.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 24.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 24.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 24.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 24.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 22.
+(Font)              `operators' in the math version `normal' on input line 24.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/MyriadPro(0)/m/n on input line 22.
+(Font)                  OT1/cmr/m/n --> TU/MyriadPro(0)/m/n on input line 24.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 22.
+(Font)              `operators' in the math version `bold' on input line 24.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/MyriadPro(0)/m/n on input line 22.
+(Font)                  OT1/cmr/bx/n --> TU/MyriadPro(0)/m/n on input line 24.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/MyriadPro(0)/m/n --> TU/MyriadPro(0)/m/n on input lin
-e 22.
+(Font)                  TU/MyriadPro(0)/m/n --> TU/MyriadPro(0)/m/n on input li
+ne 24.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/MyriadPro(0)/m/it on input line 22.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/MyriadPro(0)/b/n on input line 22.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/MyriadPro(0)/m/n on input line 22.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 22.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/MyriadPro(0)/m/n --> TU/MyriadPro(0)/b/n on input lin
-e 22.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/MyriadPro(0)/b/it on input line 22.
+(Font)                  OT1/cmr/m/it --> TU/MyriadPro(0)/m/it on input line 24.
 
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/MyriadPro(0)/b/n on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/MyriadPro(0)/m/n on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/MyriadPro(0)/m/n --> TU/MyriadPro(0)/b/n on input li
+ne 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/MyriadPro(0)/b/it on input line 24
+.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/MyriadPro(0)/b/n on input line 22.
+(Font)                  OT1/cmss/bx/n --> TU/MyriadPro(0)/b/n on input line 24.
+
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 22.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 24.
 
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/fmtcount/fc-english.def
 File: fc-english.def 2016/01/12
 )
-\AtBeginShipoutBox=\box99
-Package hyperref Info: Link coloring ON on input line 22.
+Package hyperref Info: Link coloring ON on input line 24.
  (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/nameref.sty
-Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
 (C:/Users/EladT/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
@@ -1040,14 +1023,14 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count368
+\c@section@level=\count373
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 22.
-LaTeX Info: Redefining \ref on input line 22.
-LaTeX Info: Redefining \pageref on input line 22.
-LaTeX Info: Redefining \nameref on input line 22.
+LaTeX Info: Redefining \nameref on input line 24.
+LaTeX Info: Redefining \ref on input line 24.
+LaTeX Info: Redefining \pageref on input line 24.
+LaTeX Info: Redefining \nameref on input line 24.
 (./TI4_strategy_guide.out) (./TI4_strategy_guide.out)
 \@outlinefile=\write4
 
@@ -1206,35 +1189,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--2
 \tf@toc=\write5
 
 \openout5 = TI4_strategy_guide.toc
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 150.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 150.
  (./TI4_strategy_guide.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 150.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 150.
-Package rerunfilecheck Info: File `TI4_strategy_guide.out' has not changed.
-(rerunfilecheck)             Checksum: 71B019172E2C83E19A2918DDB11D264A;3877.
-
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+Package rerunfilecheck Warning: File `TI4_strategy_guide.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `TI4_strategy_guide.out':
+(rerunfilecheck)             Before: 71B019172E2C83E19A2918DDB11D264A;3877
+(rerunfilecheck)             After:  87403D969B1D8D5793A4E4276A90A6B4;3850.
 )
 
 Here is how much of LuaTeX's memory you used:
- 18318 strings out of 481302
+ 17560 strings out of 478296
  156265,794899 words of node,token memory allocated
  1126 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 6 attribute, 188 glue_spec
 , 6 attribute_list, 2 write nodes
-   avail lists: 1:2,2:881,3:727,4:408,5:2482,6:152,7:14394,8:30,9:738,10:14,11:7
-50
- 34740 multiletter control sequences out of 65536+200000
- 77 fonts using 7631683 bytes
- 47i,11n,75p,1142b,426s stack positions out of 5000i,500n,10000p,200000b,50000s
+   avail lists: 2:955,3:727,4:408,5:2482,6:151,7:14394,8:59,9:738,10:14,11:750
+ 36840 multiletter control sequences out of 65536+600000
+ 75 fonts using 7020967 bytes
+ 77i,11n,85p,1142b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/WINDOWS/Fonts/myriadpro-it.otf><C:/Users/EladT/AppData/Local/Microsoft/Windo
 ws/Fonts/handel_gothic_d_bold.otf><C:/WINDOWS/Fonts/myriadpro-bold.otf><C:/WINDO
 WS/Fonts/myriadpro-regular.otf><C:/Users/EladT/AppData/Local/Programs/MiKTeX/fon
 ts/type1/urw/zapfding/uzdr.pfb>
-Output written on TI4_strategy_guide.pdf (26 pages, 154580 bytes).
+Output written on TI4_strategy_guide.pdf (26 pages, 154590 bytes).
 
 PDF statistics: 284 PDF objects out of 1000 (max. 8388607)
  53 named destinations out of 1000 (max. 131072)
