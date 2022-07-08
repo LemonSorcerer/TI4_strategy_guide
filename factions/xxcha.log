@@ -1,0 +1,731 @@
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2022.3.30)  8 JUL 2022 16:29
+ restricted system commands enabled.
+**xxcha.tex
+(./xxcha.tex
+LaTeX2e <2020-02-02> patch level 2
+Lua module: luaotfload-main 2020-02-02 3.12 luaotfload entry point
+Lua module: luaotfload-init 2020-02-02 3.12 luaotfload submodule / initializatio
+n
+Lua module: lualibs 2020-02-02 2.70 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2020-02-02 2.70 ConTeXt Lua libraries -- extended c
+ollection.
+Lua module: luaotfload-log 2020-02-02 3.12 luaotfload submodule / logging
+Lua module: luaotfload-parsers 2020-02-02 3.12 luaotfload submodule / filelist
+Lua module: luaotfload-configuration 2020-02-02 3.12 luaotfload submodule / conf
+ig file reader
+luaotfload | conf : Root cache directory is /home/lemon/.texlive2019/texmf-var/l
+uatex-cache/generic-dev/names.
+luaotfload | init : Loading fontloader “fontloader-2020-01-26.lua” from kpse
+-resolved path “/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader
+-2020-01-26.lua”.
+Lua-only attribute luaotfload@state = 2
+Lua-only attribute luaotfload@noligature = 3
+Lua-only attribute luaotfload@syllabe = 4
+luaotfload | init : Context OpenType loader version “3.11”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Lua module: luaotfload-loaders 2020-02-02 3.12 luaotfload submodule / callback h
+andling
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua module: luaotfload-database 2020-02-02 3.12 luaotfload submodule / database
+Lua module: luaotfload-unicode 2020-02-02 3.12 luaotfload submodule / Unicode he
+lpers
+Lua module: luaotfload-colors 2020-02-02 3.12 luaotfload submodule / color
+Lua-only attribute luaotfload_color_attribute = 5
+Lua module: luaotfload-resolvers 2020-02-02 3.12 luaotfload submodule / resolver
+s
+luaotfload | conf : Root cache directory is /home/lemon/.texlive2019/texmf-var/l
+uatex-cache/generic-dev/names.
+Lua module: luaotfload-features 2020-02-02 3.12 luaotfload submodule / features
+Lua module: luaotfload-letterspace 2020-02-02 3.12 luaotfload submodule / color
+Lua module: luaotfload-embolden 2020-02-02 3.12 luaotfload submodule / color
+Lua module: luaotfload-notdef 2020-02-02 3.12 luaotfload submodule / color
+Lua module: luaotfload-auxiliary 2020-02-02 3.12 luaotfload submodule / auxiliar
+y functions
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_fon
+t'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 3 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
+Lua module: luaotfload-fallback 2020-02-02 3.12 luaotfload submodule / fallback
+Lua module: luaotfload-multiscript 2020-02-02 3.12 luaotfload submodule / multis
+cript
+Lua module: luaotfload-script 2020-02-02 3.12 luaotfload submodule / Script help
+ers
+Lua module: luaotfload-tounicode 2020-02-02 3.12 luaotfload submodule / tounicod
+e
+Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
+. L3 programming layer <2020-02-14>
+! Undefined control sequence.
+l.1 {\handel
+          \Huge The Xxcha Kingdom} \hfill {\Large Difficulty: \easy} \vspace...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1 {\handel\Huge
+                The Xxcha Kingdom} \hfill {\Large Difficulty: \easy} \vspace...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 {\handel\Huge T
+                 he Xxcha Kingdom} \hfill {\Large Difficulty: \easy} \vspace...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.1 {\handel\Huge The Xxcha Kingdom} \hfill {\Large
+                                                  Difficulty: \easy} \vspace...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1 ...cha Kingdom} \hfill {\Large Difficulty: \easy
+                                                  } \vspace{-4pt}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[]The
+ []
+
+
+! LaTeX Error: Environment multicols undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \begin{multicols}
+                   {2}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \begin{multicols}{2
+                     }
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 5--6
+[]2 
+ []
+
+! Undefined control sequence.
+l.7 \stress
+         {Faction Abilities}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \stress{F
+           action Abilities}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 7--8
+[]Faction
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \begin{itemize}
+                 
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 9--9
+[] 
+ []
+
+! Undefined control sequence.
+<recently read> \name 
+      
+l.10 \item \name
+              {Peace Accords}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \name 
+      
+l.12 \item \name
+              {Quash}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 17--18
+[][] 
+ []
+
+! Undefined control sequence.
+l.19 \stress
+          {Starting Units}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 19--20
+[]Starting
+ []
+
+
+! LaTeX Error: Environment multicols undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \begin{multicols}
+                    {2}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 22--23
+[]2 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{multicols}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \end{multicols}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.34 \stress
+          {Commodities}: 4
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 34--35
+[]Commodities:
+ []
+
+! Undefined control sequence.
+l.37 \stress
+          {Home System}: Archon Ren (2/3); Archon Tau (1/1)
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 37--38
+[]Home
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 39--40
+[][] 
+ []
+
+! Undefined control sequence.
+l.41 \stress
+          {Starting Technology}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 41--42
+[]Starting
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 43--43
+[] 
+ []
+
+! Undefined control sequence.
+<recently read> \graviton 
+          
+l.44 \item \graviton
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 47--48
+[][] 
+ []
+
+! Undefined control sequence.
+l.49 \stress
+          {Flagship}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 49--50
+[]Flagship 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 51--51
+[] 
+ []
+
+! Undefined control sequence.
+<recently read> \name 
+      
+l.52 \item \name
+              {Loncara Ssodu}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+luaotfload | db : Font names database loaded from /home/lemon/.texlive2019/texmf
+-var/luatex-cache/generic-dev/names/luaotfload-names.luc
+Overfull \hbox (32.2pt too wide) in paragraph at lines 52--56
+\TU/lmr/m/it/10 Sustain
+ []
+
+
+Overfull \hbox (24.42pt too wide) in paragraph at lines 52--56
+\TU/lmr/m/it/10 Dam-
+ []
+
+
+Overfull \hbox (14.59001pt too wide) in paragraph at lines 52--56
+\TU/lmr/m/it/10 age 
+ []
+
+
+Overfull \hbox (24.02002pt too wide) in paragraph at lines 52--56
+\TU/lmr/m/it/10 Space
+ []
+
+
+Overfull \hbox (21.47pt too wide) in paragraph at lines 52--56
+\TU/lmr/m/it/10 Can-
+ []
+
+
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 52--56
+\TU/lmr/m/it/10 non
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 58--59
+[][] 
+ []
+
+! Undefined control sequence.
+l.60 \stress
+          {Mech}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 60--61
+[]Mech 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 62--62
+[] 
+ []
+
+! Undefined control sequence.
+<recently read> \name 
+      
+l.63 \item \name
+              {Letani Behemoth}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (32.2pt too wide) in paragraph at lines 63--69
+\TU/lmr/m/it/10 Sustain
+ []
+
+
+Overfull \hbox (24.42pt too wide) in paragraph at lines 63--69
+\TU/lmr/m/it/10 Dam-
+ []
+
+
+Overfull \hbox (14.59001pt too wide) in paragraph at lines 63--69
+\TU/lmr/m/it/10 age 
+ []
+
+
+Overfull \hbox (24.02002pt too wide) in paragraph at lines 63--69
+\TU/lmr/m/it/10 Space
+ []
+
+
+Overfull \hbox (21.47pt too wide) in paragraph at lines 63--69
+\TU/lmr/m/it/10 Can-
+ []
+
+
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 63--69
+\TU/lmr/m/it/10 non
+ []
+
+
+Overfull \hbox (24.02002pt too wide) in paragraph at lines 63--69
+\TU/lmr/m/it/10 Space
+ []
+
+
+Overfull \hbox (21.47pt too wide) in paragraph at lines 63--69
+\TU/lmr/m/it/10 Can-
+ []
+
+
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 63--69
+\TU/lmr/m/it/10 non
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 71--72
+[][] 
+ []
+
+! Undefined control sequence.
+l.73 \nounits
+           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.76 \columnbreak
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.77 \stress
+          {Faction Technologies}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 77--78
+[]Faction
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 79--79
+[] 
+ []
+
+! Undefined control sequence.
+<recently read> \instinct 
+          
+l.80 \item \instinct
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \nullification 
+               
+l.81 \item \nullification
+                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 84--85
+[][] 
+ []
+
+! Undefined control sequence.
+l.86 \stress
+          {Leaders}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 86--87
+[]Leaders 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 88--88
+[] 
+ []
+
+! Undefined control sequence.
+<recently read> \name 
+      
+l.89 \item \name
+              {Agent - Ggrocuto Rinn}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (31.71002pt too wide) in paragraph at lines 89--92
+\TU/lmr/m/it/10 Action:
+ []
+
+! Undefined control sequence.
+<recently read> \name 
+      
+l.92 \item \name
+              {Commander - Elder Qanoj} \textcolor{gray}{(\emph{Unlock:} Con...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.92 \item \name{Commander - Elder Qanoj} \textcolor
+                                                  {gray}{(\emph{Unlock:} Con...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (16.62999pt too wide) in paragraph at lines 92--95
+gray(\TU/lmr/m/it/10 Un-
+ []
+
+
+Overfull \hbox (19.43002pt too wide) in paragraph at lines 92--95
+\TU/lmr/m/it/10 lock:
+ []
+
+! Undefined control sequence.
+<recently read> \name 
+      
+l.95 \item \name
+              {Hero - Xxekir Grom / Political Data Nexus} \textcolor{gray}{(...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.95 ...ekir Grom / Political Data Nexus} \textcolor
+                                                  {gray}{(\emph{Unlock:} Hav...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (16.62999pt too wide) in paragraph at lines 95--97
+gray(\TU/lmr/m/it/10 Un-
+ []
+
+
+Overfull \hbox (19.43002pt too wide) in paragraph at lines 95--97
+\TU/lmr/m/it/10 lock:
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 99--100
+[][] 
+ []
+
+! Undefined control sequence.
+l.101 \stress
+           {Promissory Note} %ERRATAD
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 101--102
+[]Promissory
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 103--103
+[] 
+ []
+
+! Undefined control sequence.
+<recently read> \name 
+      
+l.104 \item \name
+               {Political Favor}:\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (25.32pt too wide) in paragraph at lines 104--108
+\TU/lmr/m/it/10 When
+ []
+
+
+Overfull \hbox (10.73pt too wide) in paragraph at lines 104--108
+\TU/lmr/m/it/10 an
+ []
+
+
+Overfull \hbox (30.15001pt too wide) in paragraph at lines 104--108
+\TU/lmr/m/it/10 agenda
+ []
+
+
+Overfull \hbox (7.16pt too wide) in paragraph at lines 104--108
+\TU/lmr/m/it/10 is
+ []
+
+
+Overfull \hbox (11.89001pt too wide) in paragraph at lines 104--108
+\TU/lmr/m/it/10 re-
+ []
+
+
+Overfull \hbox (28.79004pt too wide) in paragraph at lines 104--108
+\TU/lmr/m/it/10 vealed: 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{multicols}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 \end{multicols}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> xxcha.tex
+          
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 30 strings out of 481365
+ 100000,319454 words of node,token memory allocated 19854 words of node memory still in use:
+   181 hlist, 9 rule, 8 disc, 44 local_par, 1 dir, 730 glue, 25 kern, 150 penalt
+y, 1595 glyph, 169 attribute, 39 glue_spec, 169 attribute_list nodes
+   avail lists: 2:3,3:1,4:43,5:9,7:52,10:42
+ 17254 multiletter control sequences out of 65536+600000
+ 25 fonts using 3258915 bytes
+ 15i,1n,15p,245b,130s stack positions out of 5000i,500n,10000p,200000b,100000s
+!  ==> Fatal error occurred, no output PDF file produced!
