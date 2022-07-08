@@ -5,23 +5,24 @@
 \contentsline {section}{The Argent Flight}{4}{section*.4}%
 \contentsline {section}{The Barony of Letnev}{5}{section*.5}%
 \contentsline {section}{The Clan of Saar}{6}{section*.6}%
-\contentsline {section}{The Embers of Muaat}{7}{section*.7}%
-\contentsline {section}{The Emirates of Hacan}{8}{section*.8}%
-\contentsline {section}{The Empyrean}{9}{section*.9}%
-\contentsline {section}{The Federation of Sol}{10}{section*.10}%
-\contentsline {section}{The Ghosts of Creuss}{11}{section*.11}%
-\contentsline {section}{The L1Z1X Mindnet}{12}{section*.12}%
-\contentsline {section}{The Mahact Gene-Sorcerers}{13}{section*.13}%
-\contentsline {section}{The Mentak Coalition}{14}{section*.14}%
-\contentsline {section}{The Naalu Collective}{15}{section*.15}%
-\contentsline {section}{The Naaz-Rokha Alliance}{16}{section*.16}%
-\contentsline {section}{The Nekro Virus}{17}{section*.17}%
-\contentsline {section}{The Nomad}{18}{section*.18}%
-\contentsline {section}{Sardakk N'orr}{19}{section*.19}%
-\contentsline {section}{The Titans of Ul}{20}{section*.20}%
-\contentsline {section}{The Universities of Jol-Nar}{21}{section*.21}%
-\contentsline {section}{The Vuil'Raith Cabal}{22}{section*.22}%
-\contentsline {section}{The Winnu}{23}{section*.23}%
-\contentsline {section}{The Xxcha Kingdoms}{24}{section*.24}%
-\contentsline {section}{The Yin Brotherhood}{25}{section*.25}%
-\contentsline {section}{The Yssaril Tribes}{26}{section*.26}%
+\contentsline {section}{The Council Keleres}{7}{section*.7}%
+\contentsline {section}{The Embers of Muaat}{8}{section*.8}%
+\contentsline {section}{The Emirates of Hacan}{9}{section*.9}%
+\contentsline {section}{The Empyrean}{10}{section*.10}%
+\contentsline {section}{The Federation of Sol}{11}{section*.11}%
+\contentsline {section}{The Ghosts of Creuss}{12}{section*.12}%
+\contentsline {section}{The L1Z1X Mindnet}{13}{section*.13}%
+\contentsline {section}{The Mahact Gene-Sorcerers}{14}{section*.14}%
+\contentsline {section}{The Mentak Coalition}{15}{section*.15}%
+\contentsline {section}{The Naalu Collective}{16}{section*.16}%
+\contentsline {section}{The Naaz-Rokha Alliance}{17}{section*.17}%
+\contentsline {section}{The Nekro Virus}{18}{section*.18}%
+\contentsline {section}{The Nomad}{19}{section*.19}%
+\contentsline {section}{Sardakk N'orr}{20}{section*.20}%
+\contentsline {section}{The Titans of Ul}{21}{section*.21}%
+\contentsline {section}{The Universities of Jol-Nar}{22}{section*.22}%
+\contentsline {section}{The Vuil'Raith Cabal}{23}{section*.23}%
+\contentsline {section}{The Winnu}{24}{section*.24}%
+\contentsline {section}{The Xxcha Kingdoms}{25}{section*.25}%
+\contentsline {section}{The Yin Brotherhood}{26}{section*.26}%
+\contentsline {section}{The Yssaril Tribes}{27}{section*.27}%
